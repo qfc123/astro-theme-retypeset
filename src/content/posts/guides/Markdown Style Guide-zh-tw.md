@@ -3,7 +3,6 @@ title: Markdown 樣式指南
 published: 2025-03-08
 updated: 2025-03-23
 tags: ["指南"]
-pin: 1
 toc: false
 lang: zh-tw
 abbrlink: markdown-style-guide

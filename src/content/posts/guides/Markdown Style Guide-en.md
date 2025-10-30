@@ -3,7 +3,6 @@ title: Markdown Style Guide
 published: 2025-03-08
 updated: 2025-03-23
 tags: ["Guide"]
-pin: 1
 toc: false
 lang: en
 abbrlink: markdown-style-guide

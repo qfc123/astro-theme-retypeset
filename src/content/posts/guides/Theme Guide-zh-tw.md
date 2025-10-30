@@ -3,7 +3,6 @@ title: 主題上手指南
 published: 2025-01-26
 updated: 2025-03-12
 tags: ["部落格主題","指南"]
-pin: 99
 lang: zh-tw
 abbrlink: theme-guide
 ---

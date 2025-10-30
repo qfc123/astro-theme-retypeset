@@ -3,7 +3,6 @@ title: Руководство по теме
 published: 2025-01-26
 updated: 2025-03-12
 tags: ["Тема блога","Руководство"]
-pin: 99
 lang: ru
 abbrlink: theme-guide
 ---

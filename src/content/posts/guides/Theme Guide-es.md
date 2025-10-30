@@ -3,7 +3,6 @@ title: Guía del Tema
 published: 2025-01-26
 updated: 2025-03-12
 tags: ["Tema de Blog","Guía"]
-pin: 99
 lang: es
 abbrlink: theme-guide
 ---

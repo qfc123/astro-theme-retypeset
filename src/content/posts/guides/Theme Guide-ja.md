@@ -3,7 +3,6 @@ title: テーマ使用ガイド
 published: 2025-01-26
 updated: 2025-03-12
 tags: ["ブログテーマ","ガイド"]
-pin: 99
 lang: ja
 abbrlink: theme-guide
 ---
